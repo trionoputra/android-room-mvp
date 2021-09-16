@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Google Room MVP</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="list_user">List User</string>
+    <string name="input_user">Input User</string>
+    <string name="detail_user">Detail User</string>
+    <string name="hint_error_empty">Field tidak boleh kosong</string>
+    <string name="hint_error_valid_email">Format email tidak sesuai</string>
+    <string name="hint_success_save">Data User Berhasil di Simpan</string>
+    <string name="hint_error_duplicate_email">Email address sudah terdaftar</string>
+    <string name="data_not_found">Data tidak ditemukan</string>
+</resources>

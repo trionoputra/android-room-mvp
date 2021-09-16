@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_xlarge">64dp</dimen>
+    <dimen name="space_large">32dp</dimen>
+    <dimen name="space_medium">16dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+
+    <dimen name="indicator_size">4dp</dimen>
+
+    <dimen name="text_xlarge">24dp</dimen>
+    <dimen name="text_large">20dp</dimen>
+    <dimen name="text_medium">16dp</dimen>
+    <dimen name="text_small">12dp</dimen>
+    <dimen name="text_tiny">8dp</dimen>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Google Room MVP"
+include ':app'
